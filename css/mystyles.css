@@ -93,8 +93,16 @@ section {
 
 #personalpic {
 	float: left;
-	border-radius: 100%;
 	margin-right: 15px;
+}
+
+#theimage {
+	border-radius: 100%;
+}
+
+figcaption {
+	text-align: center;
+	font-size: 10px;
 }
 
 h3 {
